@@ -1,0 +1,13 @@
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\bin\Debug\netcoreapp3.1\Obstacle maps.exe
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\bin\Debug\netcoreapp3.1\Obstacle maps.deps.json
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\bin\Debug\netcoreapp3.1\Obstacle maps.runtimeconfig.json
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\bin\Debug\netcoreapp3.1\Obstacle maps.runtimeconfig.dev.json
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\bin\Debug\netcoreapp3.1\Obstacle maps.dll
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\bin\Debug\netcoreapp3.1\Obstacle maps.pdb
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\obj\Debug\netcoreapp3.1\Obstacle maps.csprojAssemblyReference.cache
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\obj\Debug\netcoreapp3.1\Obstacle maps.AssemblyInfoInputs.cache
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\obj\Debug\netcoreapp3.1\Obstacle maps.AssemblyInfo.cs
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\obj\Debug\netcoreapp3.1\Obstacle maps.csproj.CoreCompileInputs.cache
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\obj\Debug\netcoreapp3.1\Obstacle maps.dll
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\obj\Debug\netcoreapp3.1\Obstacle maps.pdb
+C:\Users\Алла\Desktop\lessons-2\lesson2_7\Obstacle maps\obj\Debug\netcoreapp3.1\Obstacle maps.genruntimeconfig.cache
