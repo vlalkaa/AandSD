@@ -1,0 +1,13 @@
+C:\progCH\lesson2_8\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.exe
+C:\progCH\lesson2_8\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.deps.json
+C:\progCH\lesson2_8\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.runtimeconfig.json
+C:\progCH\lesson2_8\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.runtimeconfig.dev.json
+C:\progCH\lesson2_8\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.dll
+C:\progCH\lesson2_8\Bucket Sort\bin\Debug\netcoreapp3.1\Bucket Sort.pdb
+C:\progCH\lesson2_8\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.csprojAssemblyReference.cache
+C:\progCH\lesson2_8\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.AssemblyInfoInputs.cache
+C:\progCH\lesson2_8\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.AssemblyInfo.cs
+C:\progCH\lesson2_8\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.csproj.CoreCompileInputs.cache
+C:\progCH\lesson2_8\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.dll
+C:\progCH\lesson2_8\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.pdb
+C:\progCH\lesson2_8\Bucket Sort\obj\Debug\netcoreapp3.1\Bucket Sort.genruntimeconfig.cache
